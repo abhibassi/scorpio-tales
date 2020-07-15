@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'latin_wide_d';
-  src        : url("assets/latin_wide_d-webfont.woff2") format('woff2'), url("assets/latin_wide_d-webfont.woff") format('woff');
+  src        : url("font/latin_wide_d-webfont.woff2") format('woff2'), url("font/latin_wide_d-webfont.woff") format('woff');
   font-weight: normal;
   font-style : normal;
 }
@@ -21,7 +21,7 @@ body {
   display        : -webkit-flex;
   justify-content: center;
   align-items    : center;
-  background     : url("assets/background.jpg") repeat;
+  background     : url("img/background.jpeg") repeat;
 }
 
 div {
